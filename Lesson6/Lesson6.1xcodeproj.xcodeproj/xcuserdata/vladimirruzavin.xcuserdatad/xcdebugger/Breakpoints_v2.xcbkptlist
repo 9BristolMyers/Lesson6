@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD9984F0-C020-49FF-87AA-16FC62463CE6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA20CE61-2929-4E7C-B4F8-FC54EB3824AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson3/BasicTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "BasicTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AA20CE61-2929-4E7C-B4F8-FC54EB3824AB - b38661f551b9f9da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson3.BasicTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Lesson3.BasicTableViewCell"
+                  moduleName = "Lesson3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladimirruzavin/Desktop/Lesson3/Lesson3/BasicTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "AA20CE61-2929-4E7C-B4F8-FC54EB3824AB - 6e8f85b478d94df7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson3.BasicTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Lesson3.BasicTableViewCell"
+                  moduleName = "Lesson3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladimirruzavin/Desktop/Lesson3/Lesson3/BasicTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "AA20CE61-2929-4E7C-B4F8-FC54EB3824AB - fc699c98e083d3fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson3.BasicTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson3.BasicTableViewCell&gt;"
+                  moduleName = "Lesson3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladimirruzavin/Desktop/Lesson3/Lesson3/BasicTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "AA20CE61-2929-4E7C-B4F8-FC54EB3824AB - 7af1e64246a474d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson3.BasicTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson3.BasicTableViewCell&gt;"
+                  moduleName = "Lesson3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladimirruzavin/Desktop/Lesson3/Lesson3/BasicTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "AA20CE61-2929-4E7C-B4F8-FC54EB3824AB - 656055f2bc4081f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson3.BasicTableViewCell.__deallocating_deinit"
+                  moduleName = "Lesson3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladimirruzavin/Desktop/Lesson3/Lesson3/BasicTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
